@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Khadija Muhammmad Nasir🫶
-<img src "download.jpg"\>
+<img src = "download.jpg"\>
 <!--
 **khaddynasir/khaddynasir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
